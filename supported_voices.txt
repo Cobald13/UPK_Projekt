@@ -1,0 +1,2946 @@
+Supported voices:
+Name: af-ZA-Standard-A
+  Supported languages: ['af-ZA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: am-ET-Standard-A
+  Supported languages: ['am-ET']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: am-ET-Standard-B
+  Supported languages: ['am-ET']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: am-ET-Wavenet-A
+  Supported languages: ['am-ET']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: am-ET-Wavenet-B
+  Supported languages: ['am-ET']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Standard-A
+  Supported languages: ['ar-XA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Standard-B
+  Supported languages: ['ar-XA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Standard-C
+  Supported languages: ['ar-XA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Standard-D
+  Supported languages: ['ar-XA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Wavenet-A
+  Supported languages: ['ar-XA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Wavenet-B
+  Supported languages: ['ar-XA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Wavenet-C
+  Supported languages: ['ar-XA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ar-XA-Wavenet-D
+  Supported languages: ['ar-XA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bg-BG-Standard-A
+  Supported languages: ['bg-BG']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bg-BG-Standard-B
+  Supported languages: ['bg-BG']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bg-BG-Wavenet-B
+  Supported languages: ['bg-BG']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Standard-A
+  Supported languages: ['bn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Standard-B
+  Supported languages: ['bn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Standard-C
+  Supported languages: ['bn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Standard-D
+  Supported languages: ['bn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Wavenet-A
+  Supported languages: ['bn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Wavenet-B
+  Supported languages: ['bn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Wavenet-C
+  Supported languages: ['bn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: bn-IN-Wavenet-D
+  Supported languages: ['bn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ca-ES-Standard-A
+  Supported languages: ['ca-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ca-ES-Standard-B
+  Supported languages: ['ca-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ca-ES-Wavenet-B
+  Supported languages: ['ca-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Standard-A
+  Supported languages: ['cmn-CN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Standard-B
+  Supported languages: ['cmn-CN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Standard-C
+  Supported languages: ['cmn-CN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Standard-D
+  Supported languages: ['cmn-CN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Wavenet-A
+  Supported languages: ['cmn-CN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Wavenet-B
+  Supported languages: ['cmn-CN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Wavenet-C
+  Supported languages: ['cmn-CN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-CN-Wavenet-D
+  Supported languages: ['cmn-CN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-TW-Standard-A
+  Supported languages: ['cmn-TW']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-TW-Standard-B
+  Supported languages: ['cmn-TW']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-TW-Standard-C
+  Supported languages: ['cmn-TW']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-TW-Wavenet-A
+  Supported languages: ['cmn-TW']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-TW-Wavenet-B
+  Supported languages: ['cmn-TW']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cmn-TW-Wavenet-C
+  Supported languages: ['cmn-TW']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: cs-CZ-Standard-A
+  Supported languages: ['cs-CZ']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cs-CZ-Standard-B
+  Supported languages: ['cs-CZ']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cs-CZ-Wavenet-A
+  Supported languages: ['cs-CZ']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: cs-CZ-Wavenet-B
+  Supported languages: ['cs-CZ']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Neural2-D
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Neural2-F
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Standard-A
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Standard-C
+  Supported languages: ['da-DK']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Standard-D
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Standard-E
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Standard-F
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Standard-G
+  Supported languages: ['da-DK']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Wavenet-A
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Wavenet-C
+  Supported languages: ['da-DK']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Wavenet-D
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Wavenet-E
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Wavenet-F
+  Supported languages: ['da-DK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: da-DK-Wavenet-G
+  Supported languages: ['da-DK']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Journey-D
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Journey-F
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Journey-O
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Neural2-A
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Neural2-B
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Neural2-C
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Neural2-D
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Neural2-F
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Neural2-G
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Neural2-H
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Polyglot-1
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-A
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-B
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-C
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-D
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-E
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-F
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-G
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Standard-H
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Studio-B
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Studio-C
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-A
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-B
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-C
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-D
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-E
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-F
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-G
+  Supported languages: ['de-DE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: de-DE-Wavenet-H
+  Supported languages: ['de-DE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: el-GR-Standard-A
+  Supported languages: ['el-GR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: el-GR-Standard-B
+  Supported languages: ['el-GR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: el-GR-Wavenet-A
+  Supported languages: ['el-GR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: el-GR-Wavenet-B
+  Supported languages: ['el-GR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Journey-D
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Journey-F
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Journey-O
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Neural2-A
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Neural2-B
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Neural2-C
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Neural2-D
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-News-E
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-News-F
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-News-G
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Polyglot-1
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Standard-A
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Standard-B
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Standard-C
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Standard-D
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Wavenet-A
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Wavenet-B
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Wavenet-C
+  Supported languages: ['en-AU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-AU-Wavenet-D
+  Supported languages: ['en-AU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Journey-D
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Journey-F
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Journey-O
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Neural2-A
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Neural2-B
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Neural2-C
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Neural2-D
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Neural2-F
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Neural2-N
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Neural2-O
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-News-G
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-News-H
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-News-I
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-News-J
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-News-K
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-News-L
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-News-M
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Standard-A
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Standard-B
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Standard-C
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Standard-D
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Standard-F
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Standard-N
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Standard-O
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Studio-B
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Studio-C
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Wavenet-A
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Wavenet-B
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Wavenet-C
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Wavenet-D
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Wavenet-F
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Wavenet-N
+  Supported languages: ['en-GB']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-GB-Wavenet-O
+  Supported languages: ['en-GB']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Journey-D
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Journey-F
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Journey-O
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Neural2-A
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Neural2-B
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Neural2-C
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Neural2-D
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Standard-A
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Standard-B
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Standard-C
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Standard-D
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Standard-E
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Standard-F
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Wavenet-A
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Wavenet-B
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Wavenet-C
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Wavenet-D
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Wavenet-E
+  Supported languages: ['en-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-IN-Wavenet-F
+  Supported languages: ['en-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Casual-K
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Journey-D
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Journey-F
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Journey-O
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-A
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-C
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-D
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-E
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-F
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-G
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-H
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-I
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Neural2-J
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-News-K
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-News-L
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-News-N
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Polyglot-1
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-A
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-B
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-C
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-D
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-E
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-F
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-G
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-H
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-I
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Standard-J
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Studio-O
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Studio-Q
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-A
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-B
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-C
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-D
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-E
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-F
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-G
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-H
+  Supported languages: ['en-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-I
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: en-US-Wavenet-J
+  Supported languages: ['en-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Journey-D
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Journey-F
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Journey-O
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Neural2-A
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Neural2-B
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Neural2-C
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Neural2-D
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Neural2-E
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Neural2-F
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Polyglot-1
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Standard-A
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Standard-B
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Standard-C
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Standard-D
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Standard-E
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Standard-F
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Studio-C
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Studio-F
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Wavenet-B
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Wavenet-C
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Wavenet-D
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Wavenet-E
+  Supported languages: ['es-ES']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-ES-Wavenet-F
+  Supported languages: ['es-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Journey-D
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Journey-F
+  Supported languages: ['es-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Journey-O
+  Supported languages: ['es-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Neural2-A
+  Supported languages: ['es-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Neural2-B
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Neural2-C
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-News-D
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-News-E
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-News-F
+  Supported languages: ['es-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-News-G
+  Supported languages: ['es-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Polyglot-1
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Standard-A
+  Supported languages: ['es-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Standard-B
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Standard-C
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Studio-B
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Wavenet-A
+  Supported languages: ['es-US']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Wavenet-B
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: es-US-Wavenet-C
+  Supported languages: ['es-US']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: et-EE-Standard-A
+  Supported languages: ['et-EE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: eu-ES-Standard-A
+  Supported languages: ['eu-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: eu-ES-Standard-B
+  Supported languages: ['eu-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: eu-ES-Wavenet-B
+  Supported languages: ['eu-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fi-FI-Standard-A
+  Supported languages: ['fi-FI']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fi-FI-Standard-B
+  Supported languages: ['fi-FI']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fi-FI-Wavenet-A
+  Supported languages: ['fi-FI']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fi-FI-Wavenet-B
+  Supported languages: ['fi-FI']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Standard-A
+  Supported languages: ['fil-PH']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Standard-B
+  Supported languages: ['fil-PH']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Standard-C
+  Supported languages: ['fil-PH']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Standard-D
+  Supported languages: ['fil-PH']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Wavenet-A
+  Supported languages: ['fil-PH']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Wavenet-B
+  Supported languages: ['fil-PH']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Wavenet-C
+  Supported languages: ['fil-PH']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fil-PH-Wavenet-D
+  Supported languages: ['fil-PH']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fil-ph-Neural2-A
+  Supported languages: ['fil-PH']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fil-ph-Neural2-D
+  Supported languages: ['fil-PH']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Journey-D
+  Supported languages: ['fr-CA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Journey-F
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Journey-O
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Neural2-A
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Neural2-B
+  Supported languages: ['fr-CA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Neural2-C
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Neural2-D
+  Supported languages: ['fr-CA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Standard-A
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Standard-B
+  Supported languages: ['fr-CA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Standard-C
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Standard-D
+  Supported languages: ['fr-CA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Wavenet-A
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Wavenet-B
+  Supported languages: ['fr-CA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Wavenet-C
+  Supported languages: ['fr-CA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-CA-Wavenet-D
+  Supported languages: ['fr-CA']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Journey-D
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Journey-F
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Journey-O
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Neural2-A
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Neural2-B
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Neural2-C
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Neural2-D
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Neural2-E
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Neural2-F
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Neural2-G
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Polyglot-1
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Standard-A
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Standard-B
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Standard-C
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Standard-D
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Standard-E
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Standard-F
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Standard-G
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Studio-A
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Studio-D
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Wavenet-A
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Wavenet-B
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Wavenet-C
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Wavenet-D
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Wavenet-E
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Wavenet-F
+  Supported languages: ['fr-FR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: fr-FR-Wavenet-G
+  Supported languages: ['fr-FR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: gl-ES-Standard-A
+  Supported languages: ['gl-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: gl-ES-Standard-B
+  Supported languages: ['gl-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: gl-ES-Wavenet-B
+  Supported languages: ['gl-ES']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Standard-A
+  Supported languages: ['gu-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Standard-B
+  Supported languages: ['gu-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Standard-C
+  Supported languages: ['gu-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Standard-D
+  Supported languages: ['gu-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Wavenet-A
+  Supported languages: ['gu-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Wavenet-B
+  Supported languages: ['gu-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Wavenet-C
+  Supported languages: ['gu-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: gu-IN-Wavenet-D
+  Supported languages: ['gu-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Standard-A
+  Supported languages: ['he-IL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Standard-B
+  Supported languages: ['he-IL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Standard-C
+  Supported languages: ['he-IL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Standard-D
+  Supported languages: ['he-IL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Wavenet-A
+  Supported languages: ['he-IL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Wavenet-B
+  Supported languages: ['he-IL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Wavenet-C
+  Supported languages: ['he-IL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: he-IL-Wavenet-D
+  Supported languages: ['he-IL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Neural2-A
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Neural2-B
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Neural2-C
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Neural2-D
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Standard-A
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Standard-B
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Standard-C
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Standard-D
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Standard-E
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Standard-F
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Wavenet-A
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Wavenet-B
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Wavenet-C
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Wavenet-D
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Wavenet-E
+  Supported languages: ['hi-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hi-IN-Wavenet-F
+  Supported languages: ['hi-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: hu-HU-Standard-A
+  Supported languages: ['hu-HU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hu-HU-Standard-B
+  Supported languages: ['hu-HU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hu-HU-Wavenet-A
+  Supported languages: ['hu-HU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: hu-HU-Wavenet-B
+  Supported languages: ['hu-HU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Standard-A
+  Supported languages: ['id-ID']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Standard-B
+  Supported languages: ['id-ID']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Standard-C
+  Supported languages: ['id-ID']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Standard-D
+  Supported languages: ['id-ID']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Wavenet-A
+  Supported languages: ['id-ID']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Wavenet-B
+  Supported languages: ['id-ID']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Wavenet-C
+  Supported languages: ['id-ID']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: id-ID-Wavenet-D
+  Supported languages: ['id-ID']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: is-IS-Standard-A
+  Supported languages: ['is-IS']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: is-IS-Standard-B
+  Supported languages: ['is-IS']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: is-IS-Wavenet-B
+  Supported languages: ['is-IS']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Journey-D
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Journey-F
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Journey-O
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Neural2-A
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Neural2-C
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Neural2-F
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Standard-A
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Standard-B
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Standard-C
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Standard-D
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Standard-E
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Standard-F
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Wavenet-A
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Wavenet-B
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Wavenet-C
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Wavenet-D
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Wavenet-E
+  Supported languages: ['it-IT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: it-IT-Wavenet-F
+  Supported languages: ['it-IT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Neural2-B
+  Supported languages: ['ja-JP']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Neural2-C
+  Supported languages: ['ja-JP']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Neural2-D
+  Supported languages: ['ja-JP']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Standard-A
+  Supported languages: ['ja-JP']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Standard-B
+  Supported languages: ['ja-JP']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Standard-C
+  Supported languages: ['ja-JP']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Standard-D
+  Supported languages: ['ja-JP']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Wavenet-A
+  Supported languages: ['ja-JP']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Wavenet-B
+  Supported languages: ['ja-JP']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Wavenet-C
+  Supported languages: ['ja-JP']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ja-JP-Wavenet-D
+  Supported languages: ['ja-JP']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Standard-A
+  Supported languages: ['kn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Standard-B
+  Supported languages: ['kn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Standard-C
+  Supported languages: ['kn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Standard-D
+  Supported languages: ['kn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Wavenet-A
+  Supported languages: ['kn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Wavenet-B
+  Supported languages: ['kn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Wavenet-C
+  Supported languages: ['kn-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: kn-IN-Wavenet-D
+  Supported languages: ['kn-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Neural2-A
+  Supported languages: ['ko-KR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Neural2-B
+  Supported languages: ['ko-KR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Neural2-C
+  Supported languages: ['ko-KR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Standard-A
+  Supported languages: ['ko-KR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Standard-B
+  Supported languages: ['ko-KR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Standard-C
+  Supported languages: ['ko-KR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Standard-D
+  Supported languages: ['ko-KR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Wavenet-A
+  Supported languages: ['ko-KR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Wavenet-B
+  Supported languages: ['ko-KR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Wavenet-C
+  Supported languages: ['ko-KR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ko-KR-Wavenet-D
+  Supported languages: ['ko-KR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: lt-LT-Standard-A
+  Supported languages: ['lt-LT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: lt-LT-Standard-B
+  Supported languages: ['lt-LT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: lt-LT-Wavenet-B
+  Supported languages: ['lt-LT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: lv-LV-Standard-A
+  Supported languages: ['lv-LV']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: lv-LV-Standard-B
+  Supported languages: ['lv-LV']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: lv-LV-Wavenet-B
+  Supported languages: ['lt-LT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Standard-A
+  Supported languages: ['ml-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Standard-B
+  Supported languages: ['ml-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Standard-C
+  Supported languages: ['ml-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Standard-D
+  Supported languages: ['ml-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Wavenet-A
+  Supported languages: ['ml-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Wavenet-B
+  Supported languages: ['ml-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Wavenet-C
+  Supported languages: ['ml-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ml-IN-Wavenet-D
+  Supported languages: ['ml-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: mr-IN-Standard-A
+  Supported languages: ['mr-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: mr-IN-Standard-B
+  Supported languages: ['mr-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: mr-IN-Standard-C
+  Supported languages: ['mr-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: mr-IN-Wavenet-A
+  Supported languages: ['mr-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: mr-IN-Wavenet-B
+  Supported languages: ['mr-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: mr-IN-Wavenet-C
+  Supported languages: ['mr-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Standard-A
+  Supported languages: ['ms-MY']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Standard-B
+  Supported languages: ['ms-MY']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Standard-C
+  Supported languages: ['ms-MY']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Standard-D
+  Supported languages: ['ms-MY']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Wavenet-A
+  Supported languages: ['ms-MY']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Wavenet-B
+  Supported languages: ['ms-MY']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Wavenet-C
+  Supported languages: ['ms-MY']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ms-MY-Wavenet-D
+  Supported languages: ['ms-MY']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Standard-A
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Standard-B
+  Supported languages: ['nb-NO']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Standard-C
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Standard-D
+  Supported languages: ['nb-NO']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Standard-E
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Standard-F
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Standard-G
+  Supported languages: ['nb-NO']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Wavenet-A
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Wavenet-B
+  Supported languages: ['nb-NO']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Wavenet-C
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Wavenet-D
+  Supported languages: ['nb-NO']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Wavenet-E
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Wavenet-F
+  Supported languages: ['nb-NO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nb-NO-Wavenet-G
+  Supported languages: ['nb-NO']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Standard-A
+  Supported languages: ['nl-BE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Standard-B
+  Supported languages: ['nl-BE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Standard-C
+  Supported languages: ['nl-BE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Standard-D
+  Supported languages: ['nl-BE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Wavenet-A
+  Supported languages: ['nl-BE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Wavenet-B
+  Supported languages: ['nl-BE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Wavenet-C
+  Supported languages: ['nl-BE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-BE-Wavenet-D
+  Supported languages: ['nl-BE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Standard-A
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Standard-B
+  Supported languages: ['nl-NL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Standard-C
+  Supported languages: ['nl-NL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Standard-D
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Standard-E
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Standard-F
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Standard-G
+  Supported languages: ['nl-NL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Wavenet-A
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Wavenet-B
+  Supported languages: ['nl-NL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Wavenet-C
+  Supported languages: ['nl-NL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Wavenet-D
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Wavenet-E
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Wavenet-F
+  Supported languages: ['nl-NL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: nl-NL-Wavenet-G
+  Supported languages: ['nl-NL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Standard-A
+  Supported languages: ['pa-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Standard-B
+  Supported languages: ['pa-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Standard-C
+  Supported languages: ['pa-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Standard-D
+  Supported languages: ['pa-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Wavenet-A
+  Supported languages: ['pa-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Wavenet-B
+  Supported languages: ['pa-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Wavenet-C
+  Supported languages: ['pa-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pa-IN-Wavenet-D
+  Supported languages: ['pa-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Standard-A
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Standard-B
+  Supported languages: ['pl-PL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Standard-C
+  Supported languages: ['pl-PL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Standard-D
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Standard-E
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Standard-F
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Standard-G
+  Supported languages: ['pl-PL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Wavenet-A
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Wavenet-B
+  Supported languages: ['pl-PL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Wavenet-C
+  Supported languages: ['pl-PL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Wavenet-D
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Wavenet-E
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Wavenet-F
+  Supported languages: ['pl-PL']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pl-PL-Wavenet-G
+  Supported languages: ['pl-PL']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Neural2-A
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Neural2-B
+  Supported languages: ['pt-BR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Neural2-C
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Standard-A
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Standard-B
+  Supported languages: ['pt-BR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Standard-C
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Standard-D
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Standard-E
+  Supported languages: ['pt-BR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Wavenet-A
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Wavenet-B
+  Supported languages: ['pt-BR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Wavenet-C
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Wavenet-D
+  Supported languages: ['pt-BR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-BR-Wavenet-E
+  Supported languages: ['pt-BR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Standard-A
+  Supported languages: ['pt-PT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Standard-B
+  Supported languages: ['pt-PT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Standard-C
+  Supported languages: ['pt-PT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Standard-D
+  Supported languages: ['pt-PT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Standard-E
+  Supported languages: ['pt-PT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Standard-F
+  Supported languages: ['pt-PT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Wavenet-A
+  Supported languages: ['pt-PT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Wavenet-B
+  Supported languages: ['pt-PT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Wavenet-C
+  Supported languages: ['pt-PT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Wavenet-D
+  Supported languages: ['pt-PT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Wavenet-E
+  Supported languages: ['pt-PT']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: pt-PT-Wavenet-F
+  Supported languages: ['pt-PT']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ro-RO-Standard-A
+  Supported languages: ['ro-RO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ro-RO-Standard-B
+  Supported languages: ['ro-RO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ro-RO-Wavenet-A
+  Supported languages: ['ro-RO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ro-RO-Wavenet-B
+  Supported languages: ['ro-RO']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Standard-A
+  Supported languages: ['ru-RU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Standard-B
+  Supported languages: ['ru-RU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Standard-C
+  Supported languages: ['ru-RU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Standard-D
+  Supported languages: ['ru-RU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Standard-E
+  Supported languages: ['ru-RU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Wavenet-A
+  Supported languages: ['ru-RU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Wavenet-B
+  Supported languages: ['ru-RU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Wavenet-C
+  Supported languages: ['ru-RU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Wavenet-D
+  Supported languages: ['ru-RU']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ru-RU-Wavenet-E
+  Supported languages: ['ru-RU']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sk-SK-Standard-A
+  Supported languages: ['sk-SK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sk-SK-Standard-B
+  Supported languages: ['sk-SK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sk-SK-Wavenet-A
+  Supported languages: ['sk-SK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sk-SK-Wavenet-B
+  Supported languages: ['sk-SK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sr-RS-Standard-A
+  Supported languages: ['sr-RS']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Standard-A
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Standard-B
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Standard-C
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Standard-D
+  Supported languages: ['sv-SE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Standard-E
+  Supported languages: ['sv-SE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Standard-F
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Standard-G
+  Supported languages: ['sv-SE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Wavenet-A
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Wavenet-B
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Wavenet-C
+  Supported languages: ['sv-SE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Wavenet-D
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Wavenet-E
+  Supported languages: ['sv-SE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Wavenet-F
+  Supported languages: ['sv-SE']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: sv-SE-Wavenet-G
+  Supported languages: ['sv-SE']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Standard-A
+  Supported languages: ['ta-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Standard-B
+  Supported languages: ['ta-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Standard-C
+  Supported languages: ['ta-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Standard-D
+  Supported languages: ['ta-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Wavenet-A
+  Supported languages: ['ta-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Wavenet-B
+  Supported languages: ['ta-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Wavenet-C
+  Supported languages: ['ta-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ta-IN-Wavenet-D
+  Supported languages: ['ta-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: te-IN-Standard-A
+  Supported languages: ['te-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: te-IN-Standard-B
+  Supported languages: ['te-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: te-IN-Standard-C
+  Supported languages: ['te-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: te-IN-Standard-D
+  Supported languages: ['te-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: th-TH-Neural2-C
+  Supported languages: ['th-TH']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: th-TH-Standard-A
+  Supported languages: ['th-TH']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Standard-A
+  Supported languages: ['tr-TR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Standard-B
+  Supported languages: ['tr-TR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Standard-C
+  Supported languages: ['tr-TR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Standard-D
+  Supported languages: ['tr-TR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Standard-E
+  Supported languages: ['tr-TR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Wavenet-A
+  Supported languages: ['tr-TR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Wavenet-B
+  Supported languages: ['tr-TR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Wavenet-C
+  Supported languages: ['tr-TR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Wavenet-D
+  Supported languages: ['tr-TR']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: tr-TR-Wavenet-E
+  Supported languages: ['tr-TR']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: uk-UA-Standard-A
+  Supported languages: ['uk-UA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: uk-UA-Wavenet-A
+  Supported languages: ['uk-UA']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ur-IN-Standard-A
+  Supported languages: ['ur-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ur-IN-Standard-B
+  Supported languages: ['ur-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: ur-IN-Wavenet-A
+  Supported languages: ['ur-IN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: ur-IN-Wavenet-B
+  Supported languages: ['ur-IN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Neural2-A
+  Supported languages: ['vi-VN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Neural2-D
+  Supported languages: ['vi-VN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Standard-A
+  Supported languages: ['vi-VN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Standard-B
+  Supported languages: ['vi-VN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Standard-C
+  Supported languages: ['vi-VN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Standard-D
+  Supported languages: ['vi-VN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Wavenet-A
+  Supported languages: ['vi-VN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Wavenet-B
+  Supported languages: ['vi-VN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Wavenet-C
+  Supported languages: ['vi-VN']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: vi-VN-Wavenet-D
+  Supported languages: ['vi-VN']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: yue-HK-Standard-A
+  Supported languages: ['yue-HK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: yue-HK-Standard-B
+  Supported languages: ['yue-HK']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
+Name: yue-HK-Standard-C
+  Supported languages: ['yue-HK']
+  Gender: FEMALE
+  Natural sample rate hertz: 24000
+
+Name: yue-HK-Standard-D
+  Supported languages: ['yue-HK']
+  Gender: MALE
+  Natural sample rate hertz: 24000
+
