@@ -15,6 +15,8 @@ load_dotenv()  # Load environment variables from .env
 # Set sensitive credentials from environment variables
 GOOGLE_APPLICATION_CREDENTIALS = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 MONGO_URI = os.getenv("MONGO_URI")
+app.config["MONGO_URI"] = MONGO_URI  # Add this line
+mongo = PyMongo(app).db  # Initialize PyMongo after setting the URI
 AZURE_SPEECH_KEY = os.getenv("AZURE_SPEECH_KEY")
 AZURE_REGION = os.getenv("AZURE_REGION")
 
