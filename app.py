@@ -26,7 +26,7 @@ tts_client = texttospeech.TextToSpeechClient()
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('welcome.html')
 
 @app.route('/test-db', methods=['GET'])
 def test_db():
@@ -85,12 +85,12 @@ def recognize_speech():
 
         # Check the response
         if not response.results:
-            print("No transcription received from Google Speech-to-Text.")
-            return jsonify({"transcription": "No transcription available. Please try again with a clear audio file."})
+            print("Google storitev za prepoznavo govora ni prejela nobenega prepisanega besedila.")
+            return jsonify({"transcription": "Prepis ni na voljo. Poskusite znova z jasnejšo zvočno datoteko."})
 
         # Return the transcript
         transcript = response.results[0].alternatives[0].transcript
-        print(f"Google Slovenian Transcription: {transcript}")
+        print(f"Google Slovenian : Prepis: {transcript}")
         return jsonify({"transcription": transcript})
 
     except Exception as e:
@@ -168,8 +168,8 @@ def azure_recognize_speech():
             print(f"Azure Transcription: {result.text}")
             return jsonify({"transcription": result.text})
         elif result.reason == speechsdk.ResultReason.NoMatch:
-            print("No speech could be recognized.")
-            return jsonify({"transcription": "No speech could be recognized."})
+            print("Prepis ni na voljo. Poskusite znova z jasnejšo zvočno datoteko.")
+            return jsonify({"transcription": "Prepis ni na voljo. Poskusite znova z jasnejšo zvočno datoteko."})
         else:
             print(f"Azure Recognition failed: {result.reason}")
             return jsonify({"error": str(result.reason)})
@@ -210,35 +210,51 @@ def azure_synthesize_speech():
 @app.route('/submit-mos', methods=['POST'])
 def submit_mos():
     try:
-        # Extract form data
+        # Extract MOS data
         mos_data = {
-            "q1": int(request.form['q1']),
-            "q2": int(request.form['q2']),
-            "q3": int(request.form['q3']),
-            "q4": int(request.form['q4']),
-            "q5": int(request.form['q5']),
-            "q6": int(request.form['q6']),
-            "q7": int(request.form['q7']),
+            "q1": int(request.form.get('q1')),
+            "q2": int(request.form.get('q2')),
+            "q3": int(request.form.get('q3')),
+            "q4": int(request.form.get('q4')),
+            "source": request.form.get('source', 'Unknown'),  # Get source (Google or Microsoft)
             "timestamp": datetime.now()
         }
 
-        # Insert into the 'mos_feedback' collection
-        mongo.mos_feedback.insert_one(mos_data)
-        print("MOS feedback saved:", mos_data)
+        # Debugging: Log MOS data
+        print("Received MOS feedback:", mos_data)
 
-        # Redirect to the thank-you page
-        return redirect('/thank-you')
+        # Insert into MongoDB
+        mongo.vprasalnik_odgovori.insert_one(mos_data)
+        print("MOS feedback saved successfully.")
+
+        # Redirect based on source
+        if mos_data["source"] == "Google":
+            return redirect('/microsoft_testing.html')
+        elif mos_data["source"] == "Microsoft":
+            print("Redirecting to Thank You page...")  # Log this
+            return redirect('/thank_you.html')
+        else:
+            return jsonify({"error": "Unknown source"}), 400
+
     except Exception as e:
         print(f"Error saving MOS feedback: {e}")
         return jsonify({"error": str(e)}), 500
 
+@app.route('/google_testing.html')
+def google_testing():
+    return render_template('google_testing.html')
+
+@app.route('/microsoft_testing.html')
+def microsoft_testing():
+    return render_template('microsoft_testing.html')
 
 
-@app.route('/questionnaire', methods=['GET'])
+@app.route('/questionnaire.html')
 def questionnaire():
-    return render_template('questionnaire.html')
+    source = request.args.get('source', 'Unknown')
+    return render_template('questionnaire.html', source=source)
 
-@app.route('/thank-you', methods=['GET'])
+@app.route('/thank_you.html', methods=['GET'])
 def thank_you():
     return render_template('thank_you.html')
 
