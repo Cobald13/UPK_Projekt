@@ -1,0 +1,27 @@
+/* Navigacijski meni prilagojen za mobilne naprave */
+.navbar-brand {
+    white-space: normal;
+    /* Omogoči prelom besedila */
+    word-wrap: break-word;
+    /* Prelomi dolge besede */
+    overflow-wrap: break-word;
+    /* Razbije dolge besede */
+    max-width: 100%;
+    /* Omeji širino na velikost zaslona */
+    overflow: hidden;
+    /* Skrij presežek vsebine */
+    text-overflow: ellipsis;
+    /* Dodaj tri pike, če je besedilo predolgo */
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1.0rem;
+        /* Zmanjšaj velikost besedila na manjših zaslonih */
+    }
+
+    .navbar-brand i {
+        font-size: 1rem;
+        /* Zmanjšaj velikost ikone za boljše prileganje */
+    }
+}
