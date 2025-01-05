@@ -30,19 +30,31 @@
 
         <!-- Instructions Section -->
         <div class="alert alert-secondary shadow-sm mb-5">
-            <h2 class="text-center text-dark    ">Postopek testiranja</h2>
+            <h2 class="text-center text-dark">Postopek testiranja</h2>
             <p class="mb-3">
-                Orodja za razpoznavo in sintezo govora preizkusite z naslednjimi primeri, pri čemer za Google sintezo
-                uporabite angleške izraze.
+                Sedaj bomo ponovili testiranje orodij, tokrat z uporabo Microsoftove rešitve.
+                <br>
+                <br>
+                Orodja za razpoznavo in sintezo govora preizkusite z uporabo spodaj navedenih primerov.
+                Pri razpoznavanju govora kliknite na gumb za snemanje in izgovorite stavek, nato pa isti gumb ponovno
+                pritisnite za ustavitev snemanja. Prepoznano besedilo se bo prikazalo pod gumbom za snemanje.
+                Pri sintezi govora lahko besedilo vnesete v polje za vnos in predvajate lasten tekst ali pa preprosto
+                uporabite gumbe za
+                predvajanje vnaprej pripravljenih stavkov.
             </p>
+
+            <!-- Slovenian Section -->
+            <!-- <h3>Slovenščina</h3> -->
             <ul>
-                <li><b>Besede:</b> "tukaj", "so", "posamezne", "besede"</li>
-                <li><b>Kratki stavki:</b> "Tukaj so kratki stavki.", "Zunaj sije sonce", "Koliko je ura?"</li>
-                <li><b>Daljši stavki:</b> "Slovenija ima veliko naravnih znamenitosti, ki privabljajo številne
-                    turiste.", "V mestu so prejšnji teden odprli nov park s sodobnimi igrali."</li>
+                <li><b>Primer 1:</b> Za danes popoldne vam predlagam sprehod v park, vsaj dvajset minut hoje. Vreme je lepo in že nekaj dni niste bili na sprehodu.</li>
+                <li><b>Primer 2:</b> Glede na slabše spanje v pretekli noči vam predlagam popoldanski počitek, a ne več kot pol ure.</li>
+                <li><b>Primer 3:</b> V stanovanju je precej visoka vlaga. Priporočam intenzivno prezračevanje v naslednji uri. Ali sprejmete?</li>
+                <li><b>Primer 4:</b> Temperatura v stanovanju je precej visoka, več kot 24 stopinj. Priporočam, da jo v spalnici znižate na 22 stopinj, kar bo primernejša temperatura za spanje.</li>
+                <li><b>Primer 5:</b> Za danes zvečer vam priporočam obisk vaše kolegice Barbare. Pogovor in prevoz z javnim prevozom vam bo dobro del.</li>
             </ul>
+
             <p class="mb-0">
-                Uporabite zgoraj navedene primere z obema orodjema. Ko zaključite, nadaljujte na vprašalnik.
+
             </p>
         </div>
 
@@ -63,9 +75,32 @@
                         <h3 class="card-title mb-4"><i class="fas fa-volume-up"></i> Sinteza govora</h3>
                         <input type="text" id="azure-text" class="form-control mb-2 mt-3"
                             placeholder="Vnesi tekst za sintezo">
-                        <button class="btn btn-success mt-3" onclick="synthesizeAzureText()">
-                            <i class="fas fa-play"></i> Predvajaj
-                        </button>
+                            <button class="btn btn-success mt-2" onclick="synthesizeAzureText()">
+                                <i class="fas fa-play"></i> Predvajaj lasten tekst
+                            </button>
+                            <div class="mt-3">
+                                <!-- Dodatni gumbi za vnaprej pripravljen tekst -->
+                                <button class="btn btn-primary me-2"
+                                    onclick="synthesizePredefinedTextAzure('Za danes popoldne vam predlagam sprehod v park, vsaj dvajset minut hoje. Vreme je lepo in že nekaj dni niste bili na sprehodu.')">
+                                    <i class="fas fa-play"></i> Primer 1
+                                </button>
+                                <button class="btn btn-primary me-2"
+                                    onclick="synthesizePredefinedTextAzure('Glede na slabše spanje v pretekli noči vam predlagam popoldanski počitek, a ne več kot pol ure.')">
+                                    <i class="fas fa-play"></i> Primer 2
+                                </button>
+                                <button class="btn btn-primary me-2"
+                                    onclick="synthesizePredefinedTextAzure('V stanovanju je precej visoka vlaga. Priporočam intenzivno prezračevanje v naslednji uri. Ali sprejmete?')">
+                                    <i class="fas fa-play"></i> Primer 3
+                                </button>
+                                <button class="btn btn-primary me-2"
+                                    onclick="synthesizePredefinedTextAzure('Temperatura v stanovanju je precej visoka, več kot 24 stopinj. Priporočam, da jo v spalnici znižate na 22 stopinj, kar bo primernejša temperatura za spanje.')">
+                                    <i class="fas fa-play"></i> Primer 4
+                                </button>
+                                <button class="btn btn-primary me-2"
+                                    onclick="synthesizePredefinedTextAzure('Za danes zvečer vam priporočam obisk vaše kolegice Barbare. Pogovor in prevoz z javnim prevozom vam bo dobro del.')">
+                                    <i class="fas fa-play"></i> Primer 5
+                                </button>
+                            </div>
                         <audio id="azure-synthesis-audio" controls class="mt-3 d-none w-100"></audio>
                     </div>
                 </div>

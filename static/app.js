@@ -124,7 +124,7 @@ async function toggleAzureRecording() {
 
             azureMediaRecorder.start();
             isAzureRecording = true;
-            azureRecordButton.innerText = "Stop Recording";
+            azureRecordButton.innerText = "Ustavi snemanje";
             console.log("Azure Recording started...");
         } catch (error) {
             console.error("Error accessing microphone:", error);
@@ -298,6 +298,33 @@ function synthesizePredefinedText(predefinedText) {
     })
     .catch(error => {
         console.error("Napaka pri pošiljanju zahteve za sintezo:", error);
+        alert("Napaka pri sintezi besedila.");
+    });
+}
+
+function synthesizePredefinedTextAzure(predefinedText) {
+    fetch('/azure/synthesize', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: predefinedText, source: 'Azure' }) // Pošlji tekst na Microsoft TTS
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.audio_file) {
+            const audioElement = document.getElementById('azure-synthesis-audio');
+            const uniqueUrl = `${data.audio_file}?timestamp=${new Date().getTime()}`; // Prepreči caching
+            audioElement.pause();
+            audioElement.src = ""; // Počisti predhodni vir
+            audioElement.load();
+            audioElement.src = uniqueUrl;
+            audioElement.style.display = 'block';
+            audioElement.play();
+        } else {
+            alert("Napaka pri sintezi besedila z Microsoft TTS: " + data.error);
+        }
+    })
+    .catch(error => {
+        console.error("Napaka pri pošiljanju zahteve za Microsoft TTS:", error);
         alert("Napaka pri sintezi besedila.");
     });
 }
