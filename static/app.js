@@ -24,7 +24,7 @@ async function toggleRecording() {
 
             mediaRecorder.start();
             isRecording = true;
-            recordButton.innerText = "Stop Recording";
+            recordButton.innerText = "Ustavi snemanje";
             console.log("Recording started...");
         } catch (error) {
             console.error("Error accessing microphone:", error);
@@ -274,3 +274,30 @@ document.addEventListener("DOMContentLoaded", function () {
         backToToolsButton.href = "/microsoft_testing.html";
     }
 });
+
+function synthesizePredefinedText(predefinedText) {
+    fetch('/synthesize', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: predefinedText, source: 'Google' }) // Pošlji tekst na strežnik
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.audio_file) {
+            const audioElement = document.getElementById('synthesis-audio');
+            const uniqueUrl = `${data.audio_file}?timestamp=${new Date().getTime()}`;
+            audioElement.pause();
+            audioElement.src = "";
+            audioElement.load();
+            audioElement.src = uniqueUrl;
+            audioElement.style.display = 'block';
+            audioElement.play();
+        } else {
+            alert("Napaka pri sintezi besedila: " + data.error);
+        }
+    })
+    .catch(error => {
+        console.error("Napaka pri pošiljanju zahteve za sintezo:", error);
+        alert("Napaka pri sintezi besedila.");
+    });
+}
